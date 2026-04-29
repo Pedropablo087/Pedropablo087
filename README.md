@@ -26,7 +26,7 @@ Meu objetivo é crescer profissionalmente contribuindo com projetos inovadores, 
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a> 
-    <a href="www.linkedin.com/in/pedro-pablo-430656359">
+    <a href="https://www.linkedin.com/in/pedro-pablo-430656359/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
